@@ -1,0 +1,21 @@
+** The following is a hand-made log, because editing(copy -> paste) on LX-terminals was not available.
+
+$ git remote add origin https://github.com/KoyIwa/FlaskWeb.git
+$ git push -u origin master
+Username for 'https://github.com': KoyIwa
+Password for 'https://KoyIwa@github.com':
+Enumerating objects: 1202, done.
+Counting objects: 100% (1202/1202), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (1175/1175), done.
+Writing objects: 100% (1202/1202), 4.27 MiB | 243.00 KiB/s, done.
+Total 1202 (delta 386), reused 0 (delta 0)
+remote: Resolving deltas: 100% (386/386), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/KoyIwa/FlaskWeb/pull/new/master
+remote:
+To https://github.com/KoyIwa/FlaskWeb.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+$
